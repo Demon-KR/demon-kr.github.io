@@ -89,6 +89,37 @@ $(function() {
                 </div>
             </div>
         `);
+        
+        // add contact links
+        if (member.links.instagram) {
+            $code.find('.contact').append(`
+                <a href="${member.links.instagram}">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            `)
+        }
+        if (member.links.facebook) {
+            $code.find('.contact').append(`
+                <a href="${member.links.facebook}">
+                    <i class="fab fa-facebook"></i>
+                </a>
+            `)
+        }
+        if (member.links.github) {
+            $code.find('.contact').append(`
+                <a href="${member.links.github}">
+                    <i class="fab fa-github"></i>
+                </a>
+            `)
+        }
+        if (member.links.blog) {
+            $code.find('.contact').append(`
+                <a href="${member.links.blog}">
+                    <i class="fas fa-pen-square"></i>
+                </a>
+            `)
+        }
+        
         $('#members').append($code)
     });
     
