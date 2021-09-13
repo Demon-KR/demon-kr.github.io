@@ -1,6 +1,6 @@
 const MEMBER = [
     {
-        "name": "정상수",
+        "name": "정상수 👑",
         "nickname": "c0nstant",
         "image": "/images/logo.jpg",
         "discription": "음.. 뭐쓰지",
@@ -9,9 +9,16 @@ const MEMBER = [
         }
     },
     {
+        "name": "최동민",
+        "nickname": "alkyne",
+        "image": "/images/logo.jpg",
+        "discription": "-",
+        "links": {}
+    },
+    {
         "name": "정동현",
         "nickname": "jhyeon",
-        "image": "/images/logo.jpg",
+        "image": "https://avatars.githubusercontent.com/u/50125695?v=4",
         "discription": "undefined",
         "links": {
             "github": "https://github.com/jhye0n",
@@ -21,8 +28,8 @@ const MEMBER = [
     {
         "name": "이재승",
         "nickname": "g0pher",
-        "image": "/images/logo.jpg",
-        "discription": "킹갓해커가될거야",
+        "image": "https://avatars.githubusercontent.com/u/44149738?v=4",
+        "discription": "💻☕🎵🏀💰",
         "links": {
             "github": "https://github.com/g0pher98",
             "instagram": "https://instagram.com/g0pher_"
@@ -31,7 +38,7 @@ const MEMBER = [
     {
         "name": "김주원",
         "nickname": "arrester",
-        "image": "/images/logo.jpg",
+        "image": "https://avatars.githubusercontent.com/u/41779684?v=4",
         "discription": "아따 함 봐준다",
         "links": {
             "blog": "https://blog.naver.com/lstarrlodyl",

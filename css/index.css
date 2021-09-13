@@ -22,3 +22,11 @@ a {
 a:hover {
     font-weight: bold;
 }
+
+/*
+#team-link > div {
+    border: 1px solid #000;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+}*/
