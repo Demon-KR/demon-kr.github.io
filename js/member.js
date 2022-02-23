@@ -80,7 +80,7 @@ const MEMBER = [
         "image": "./images/logo.jpg",
         "description": "flzzdari",
         "links": {
-            "github": "https://slyfizz3.github.io"
+            "blog": "https://slyfizz3.github.io"
         }
     },
     {
@@ -94,7 +94,7 @@ const MEMBER = [
     },
     {
         "name": "박기태",
-        "nickname": "undefined",
+        "nickname": "kitae",
         "image": "./images/logo.jpg",
         "description": "-",
         "links": {
@@ -107,7 +107,7 @@ const MEMBER = [
         "image": "./images/logo.jpg",
         "description": "wall!",
         "links": {
-            "github":"https://blog.naver.com/ldw0811"
+            "blog":"https://blog.naver.com/ldw0811"
         }
     }
 ]
