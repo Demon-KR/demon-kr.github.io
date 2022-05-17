@@ -1,31 +1,47 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Begin Jekyll SEO tag v2.7.1 -->
-    <title>Demon</title>
-    <meta property="og:title" content="Demon" />
-    <meta name="description" content="Team Demon" />
-    <meta property="og:description" content="Team Demon" />
-    <link rel="canonical" href="/" />
-    <meta property="og:url" content="/" />
-    <meta property="og:site_name" content="Demon" />
-    <!-- End Jekyll SEO tag -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="./css/index.css" />
+<html lang="en">
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- set metadata -->
+        <meta property="og:title" content="Demon" />
+        <meta name="description" content="Team Demon" />
+        <meta property="og:description" content="Team Demon" />
+        <link rel="canonical" href="/" />
+        <meta property="og:url" content="/" />
+        <meta property="og:site_name" content="Demon" />
+
+
+        <title>Demon</title>
+
+        <!-- library -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" rel="stylesheet">
+
+        <!-- font -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Permanent+Marker&display=swap" rel="stylesheet">
+        
+        <!-- custom -->
+        <link rel="stylesheet" href="./css/index.css" />
+        <script src="./js/member-data.js"></script>
+        <script src="./js/member-animation.js"></script>
+    </head>
     <body>
+        <!--<div id="circle"></div>-->
         <table>
             <tr><td>
-                <img src="./images/logo.jpg">
+                <div id="logo"></div>
+                <div><a href="https://ctftime.org/team/8406" target="_blank"><img src="./img/ctftime.svg" width="100px"></a></div>
                 <br><br>
-                <a href="/about.html">About</a>
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="/member.html">Member</a>
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="/history.html">History</a>
             </td></tr>
         </table>
+        <div id="members">
+        </div>
         <script src="./js/index.js"></script>
     </body>
 </html>
