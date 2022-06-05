@@ -14,13 +14,73 @@ const MEMBEssRS = [
 
 const MEMBERS = [
     {
-        "name": "Sangsoo Jung",
+        "name": "Sangsoo Jeong",
         "nickname": "c0nstant",
-        "image": "./images/logo.jpg",
         "link": "https://1993-constant.tistory.com/",
         "role" : ['Leader👑', 'rev'],
-        "height": 180
+        "height": 174
     },
+    {
+        "name": "Jaeseung Lee",
+        "nickname": "g0pher",
+        "link": "https://g0pher.kr",
+        "role" : ['web'],
+        "height": 175
+    },
+    {
+        "name": "Joowon Kim",
+        "nickname": "arrester",
+        "link": "https://blog.naver.com/lstarrlodyl",
+        "role" : ['web', 'mobile', 'rev'],
+        "height": 183
+    },
+    {
+        "name": "Donghyeon Jung",
+        "nickname": "DH.J",
+        "link": "https://mypf.jhyeon.dev",
+        "role" : ['web', 'pwn'],
+        "height": 150
+    },
+    {
+        "name": "Cha",
+        "nickname": "G0RiyA",
+        "link": "https://g0riya.github.io",
+        "role" : ['???'],
+        "height": 183
+    },
+    {
+        "name": "Kitae Park",
+        "nickname": "kitae",
+        "link": "https://g0riya.github.io", // ???
+        "role" : ['web'],
+        "height": 170
+    },
+    {
+        "name": "Jongmin Kim",
+        "nickname": "slyfizz",
+        "link": "https://slyfizz3.github.io",
+        "role" : ['rev'],
+        "height": 173
+    },
+    {
+        "name": "Dowon Lee",
+        "nickname": "ksil",
+        "image": "./images/logo.jpg",
+        "link": "https://blog.naver.com/ldw0811",
+        "role" : ['forensic'],
+        "height": 173
+    },
+    {
+        "name": "Hyunji Son",
+        "nickname": "jir4vvit",
+        "link": "https://jiravvit.tistory.com/",
+        "role" : ['pwn'],
+        "height": 158
+    },
+
+    //////////////////// 아래는 아직 미기입 ////////////////
+
+
     {
         "name": "Dongmin Choi",
         "nickname": "alkyne",
@@ -30,84 +90,18 @@ const MEMBERS = [
         "height": 180
     },
     {
-        "name": "Donghyeon Jung",
-        "nickname": "DH.J",
-        "image": "https://avatars.githubusercontent.com/u/50125695?v=4",
-        "link": "https://github.com/jhye0n",
-        "role" : ['web'],
-        "height": 180
-    },
-    {
-        "name": "Jaeseung Lee",
-        "nickname": "g0pher",
-        "image": "https://avatars.githubusercontent.com/u/44149738?v=4",
-        "link": "https://g0pher.kr",
-        "role" : ['web'],
-        "height": 170
-    },
-    {
-        "name": "Juwon Kim",
-        "nickname": "arrester",
-        "image": "https://avatars.githubusercontent.com/u/41779684?v=4",
-        "link": "https://blog.naver.com/lstarrlodyl",
-        "role" : ['web', 'mobile'],
-        "height": 180
-    },
-    {
-        "name": "Hyeonji Son",
-        "nickname": "jir4vvit",
-        "image": "./images/logo.jpg",
-        "link": "https://jiravvit.tistory.com/",
-        "role" : ['pwn'],
-        "height": 180
-    },
-    {
         "name": "Soomin Hwang",
         "nickname": "Calibar",
-        "image": "./images/logo.jpg",
         "link": "https://katolik-xixon.tistory.com/",
-        "role" : ['web?'],
-        "height": 180
+        "role" : ['???'],
+        "height": 160
     },
     {
         "name": "Juntae Kim",
         "nickname": "racrua",
-        "image": "./images/logo.jpg",
         "link": "https://sunrinjuntae.tistory.com/",
         "role" : ['rev', 'pwn'],
-        "height": 180
-    },
-    {
-        "name": "Jongmin Kim",
-        "nickname": "slyfizz",
-        "image": "./images/logo.jpg",
-        "link": "https://slyfizz3.github.io",
-        "role" : ['rev'],
-        "height": 180
-    },
-    {
-        "name": "Hanul Kim",
-        "nickname": "G0RiyA",
-        "image": "./images/logo.jpg",
-        "link": "https://github.com/G0RiyA",
-        "role" : ['???'],
-        "height": 180
-    },
-    {
-        "name": "Kitae Park",
-        "nickname": "kitae",
-        "image": "./images/logo.jpg",
-        "link": "https://github.com/pkt0615",
-        "role" : ['???'],
-        "height": 180
-    },
-    {
-        "name": "Dowon Lee",
-        "nickname": "kksil",
-        "image": "./images/logo.jpg",
-        "link": "https://blog.naver.com/ldw0811",
-        "role" : ['forensic'],
-        "height": 180
+        "height": 160
     }
 ]
 
