@@ -18,7 +18,7 @@ table {
 
 a {
     text-decoration: none;
-    color: #000;
+    color: #fff;
 }
 
 a:hover {
@@ -68,6 +68,15 @@ a:hover {
     font-family: 'Audiowide', cursive; 
     font-size: 8pt;
 }
+
+.menu {
+    padding: 5px 5px;
+    margin: 0 10px;
+    font-family: 'Audiowide', cursive; 
+    font-size: 14px;
+    color: #bdbdbd;
+}
+.menu:hover { color: #fff; }
 
 .soul {
     background-image: url('../img/soul.gif');
