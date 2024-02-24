@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>welcome on DEMON</title>
+    <link>https://demon-kr.github.io/tags/welcome/</link>
+    <description>Recent content in welcome on DEMON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://demon-kr.github.io/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon!</title>
+      <link>https://demon-kr.github.io/posts/2024/02/coming_soon/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://demon-kr.github.io/posts/2024/02/coming_soon/</guid>
+      <description>Coming Soon! 데몬팀 블로그는 신규 공사중입니다!&#xA;곧 게시글과 함께 만나요~</description>
+    </item>
+  </channel>
+</rss>
